@@ -1,0 +1,35 @@
+{
+  "飞行员": {
+    "description": "未知",
+    "appearances": [
+      1
+    ],
+    "importance": 1,
+    "roles": [
+      "叙述者，回忆童年经历并讲述与小王子相遇的故事"
+    ],
+    "development": []
+  },
+  "小王子": {
+    "description": "来自B-612小行星的金发男孩，象征纯真与智慧。他通过星际旅行观察不同星球上的人性弱点，最终教会飞行员关于爱与责任的真理",
+    "appearances": [
+      1
+    ],
+    "importance": 1,
+    "roles": [
+      "神秘的小男孩，突然出现在沙漠中，要求飞行员画一只羊"
+    ],
+    "development": []
+  },
+  "莱翁·维尔特": {
+    "description": "献词对象，代表所有曾经是孩子的大人，暗示成人不应遗忘童年的纯粹视角",
+    "appearances": [
+      1
+    ],
+    "importance": 1,
+    "roles": [
+      "飞行员的朋友，本书的献词对象"
+    ],
+    "development": []
+  }
+}

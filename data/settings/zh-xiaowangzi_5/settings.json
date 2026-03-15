@@ -1,0 +1,37 @@
+{
+  "第一颗行星：国王的星球，简单却威严": {
+    "description": "",
+    "appearances": [
+      5
+    ],
+    "importance": 1
+  },
+  "第二颗行星：爱虚荣的人的星球": {
+    "description": "",
+    "appearances": [
+      5
+    ],
+    "importance": 1
+  },
+  "第三颗行星：酒鬼的星球": {
+    "description": "",
+    "appearances": [
+      5
+    ],
+    "importance": 1
+  },
+  "第四颗行星：实业家的星球": {
+    "description": "",
+    "appearances": [
+      5
+    ],
+    "importance": 1
+  },
+  "第五颗行星：点灯人的星球，最小的一颗，只有一盏路灯和一个点灯人": {
+    "description": "",
+    "appearances": [
+      5
+    ],
+    "importance": 1
+  }
+}

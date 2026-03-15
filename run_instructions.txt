@@ -1,0 +1,6 @@
+"To run the app correctly, use one of these methods:"  
+"1. From project root: python -m agent.ui.app"  
+"2. From project root: streamlit run agent/ui/app.py"  
+"3. From agent/ui dir: python -m streamlit run app.py --pythonpath=../.."  
+
+The Python path needs to include the parent directory of the 'agent' module for imports to work correctly.

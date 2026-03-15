@@ -1,0 +1,231 @@
+{
+  "categories": {
+    "emotional": [
+      {
+        "name": "北京小爷",
+        "description": "北京口音男声，支持多种情感表达",
+        "voice_type": "zh_male_beijingxiaoye_emo_v2_mars_bigtts",
+        "emotions": ["angry", "surprised", "fear", "excited", "coldness", "neutral"],
+        "language": "中文",
+        "character_traits": ["幽默", "爽快", "京味十足"]
+      },
+      {
+        "name": "柔美女友",
+        "description": "温柔甜美女声，情感丰富",
+        "voice_type": "zh_female_roumeinvyou_emo_v2_mars_bigtts",
+        "emotions": ["happy", "sad", "angry", "surprised", "fear", "hate", "excited", "coldness", "neutral"],
+        "language": "中文",
+        "character_traits": ["温柔", "甜美", "情感丰富"]
+      },
+      {
+        "name": "阳光青年",
+        "description": "阳光活力青年男声，情感多样",
+        "voice_type": "zh_male_yangguangqingnian_emo_v2_mars_bigtts",
+        "emotions": ["happy", "sad", "angry", "fear", "excited", "coldness", "neutral"],
+        "language": "中文",
+        "character_traits": ["阳光", "活力", "积极"]
+      },
+      {
+        "name": "魅力女友",
+        "description": "魅力成熟女声，善于表达悲伤与恐惧",
+        "voice_type": "zh_female_meilinvyou_emo_v2_mars_bigtts",
+        "emotions": ["sad", "fear", "neutral"],
+        "language": "中文",
+        "character_traits": ["魅力", "成熟", "情感"]
+      },
+      {
+        "name": "爽快思思",
+        "description": "爽快清脆女声，支持中英文，情感丰富",
+        "voice_type": "zh_female_shuangkuaisisi_emo_v2_mars_bigtts",
+        "emotions": ["happy", "sad", "angry", "surprised", "excited", "coldness", "neutral"],
+        "language": "中文、美式英语",
+        "character_traits": ["爽快", "清脆", "活泼"]
+      }
+    ],
+    "general": [
+      {
+        "name": "灿灿",
+        "description": "明亮温暖的女声，适合通用场景",
+        "voice_type": "zh_female_cancan_mars_bigtts",
+        "language": "中文、美式英语",
+        "character_traits": ["明亮", "温暖", "自然"]
+      },
+      {
+        "name": "清新女声",
+        "description": "清新自然的女声",
+        "voice_type": "zh_female_qingxinnvsheng_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["清新", "自然", "舒适"]
+      },
+      {
+        "name": "温暖阿虎",
+        "description": "温暖亲切的男声",
+        "voice_type": "zh_male_wennuanahu_moon_bigtts",
+        "language": "中文、美式英语",
+        "character_traits": ["温暖", "亲切", "舒适"]
+      },
+      {
+        "name": "少年梓辛",
+        "description": "少年感男声，清亮活力",
+        "voice_type": "zh_male_shaonianzixin_moon_bigtts",
+        "language": "中文、美式英语",
+        "character_traits": ["少年气", "清亮", "活力"]
+      },
+      {
+        "name": "知性女声",
+        "description": "知性成熟的女声",
+        "voice_type": "zh_female_zhixingnvsheng_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["知性", "成熟", "优雅"]
+      }
+    ],
+    "character": [
+      {
+        "name": "奶气萌娃",
+        "description": "奶声奶气的童声",
+        "voice_type": "zh_male_naiqimengwa_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["童声", "奶气", "可爱"]
+      },
+      {
+        "name": "婆婆",
+        "description": "慈祥老年女声",
+        "voice_type": "zh_female_popo_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["慈祥", "老年", "睿智"]
+      },
+      {
+        "name": "高冷御姐",
+        "description": "高冷成熟女声",
+        "voice_type": "zh_female_gaolengyujie_moon_bigtts",
+        "language": "中文",
+        "character_traits": ["高冷", "成熟", "御姐"]
+      },
+      {
+        "name": "傲娇霸总",
+        "description": "傲娇霸气男声",
+        "voice_type": "zh_male_aojiaobazong_moon_bigtts",
+        "language": "中文",
+        "character_traits": ["傲娇", "霸气", "自信"]
+      },
+      {
+        "name": "深夜播客",
+        "description": "低沉磁性男声",
+        "voice_type": "zh_male_shenyeboke_moon_bigtts",
+        "language": "中文",
+        "character_traits": ["低沉", "磁性", "成熟"]
+      }
+    ],
+    "foreign": [
+      {
+        "name": "Smith",
+        "description": "英式英语男声",
+        "voice_type": "en_male_smith_mars_bigtts",
+        "language": "英式英语",
+        "character_traits": ["正式", "英伦", "成熟"]
+      },
+      {
+        "name": "Anna",
+        "description": "英式英语女声",
+        "voice_type": "en_female_anna_mars_bigtts",
+        "language": "英式英语",
+        "character_traits": ["优雅", "英伦", "清晰"]
+      },
+      {
+        "name": "Adam",
+        "description": "美式英语男声",
+        "voice_type": "en_male_adam_mars_bigtts",
+        "language": "美式英语",
+        "character_traits": ["阳光", "美式", "活力"]
+      },
+      {
+        "name": "和音",
+        "description": "日语/西语男声",
+        "voice_type": "multi_male_jingqiangkanye_moon_bigtts",
+        "language": "日语、西语",
+        "character_traits": ["柔和", "清晰", "正式"]
+      },
+      {
+        "name": "晴子",
+        "description": "日语/西语女声",
+        "voice_type": "multi_female_shuangkuaisisi_moon_bigtts",
+        "language": "日语、西语",
+        "character_traits": ["活泼", "清脆", "自然"]
+      }
+    ],
+    "specialty": [
+      {
+        "name": "猴哥",
+        "description": "模仿孙悟空声音",
+        "voice_type": "zh_male_sunwukong_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["活泼", "俏皮", "调皮"]
+      },
+      {
+        "name": "熊二",
+        "description": "模仿熊二声音",
+        "voice_type": "zh_male_xionger_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["憨厚", "可爱", "童趣"]
+      },
+      {
+        "name": "佩奇猪",
+        "description": "模仿小猪佩奇声音",
+        "voice_type": "zh_female_peiqi_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["童趣", "可爱", "活泼"]
+      },
+      {
+        "name": "武则天",
+        "description": "模仿武则天声音",
+        "voice_type": "zh_female_wuzetian_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["威严", "霸气", "古风"]
+      },
+      {
+        "name": "懒音绵宝",
+        "description": "慵懒可爱童声",
+        "voice_type": "zh_male_lanxiaoyang_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["慵懒", "可爱", "童声"]
+      }
+    ],
+    "storytelling": [
+      {
+        "name": "悬疑解说",
+        "description": "悬疑氛围解说男声",
+        "voice_type": "zh_male_changtianyi_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["神秘", "深沉", "悬疑"]
+      },
+      {
+        "name": "儒雅青年",
+        "description": "儒雅文艺男声",
+        "voice_type": "zh_male_ruyaqingnian_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["儒雅", "文艺", "优雅"]
+      },
+      {
+        "name": "霸气青叔",
+        "description": "霸气成熟男声",
+        "voice_type": "zh_male_baqiqingshu_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["霸气", "成熟", "深沉"]
+      },
+      {
+        "name": "古风少御",
+        "description": "古风女声",
+        "voice_type": "zh_female_gufengshaoyu_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["古风", "优雅", "婉约"]
+      },
+      {
+        "name": "温柔淑女",
+        "description": "温柔大方女声",
+        "voice_type": "zh_female_wenroushunv_mars_bigtts",
+        "language": "中文",
+        "character_traits": ["温柔", "淑女", "优雅"]
+      }
+    ]
+  }
+} 

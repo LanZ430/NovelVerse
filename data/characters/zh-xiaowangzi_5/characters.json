@@ -1,0 +1,68 @@
+{
+  "小王子": {
+    "description": "未知",
+    "appearances": [
+      5
+    ],
+    "importance": 1,
+    "roles": [
+      "旅行者，观察和思考大人们的行为"
+    ],
+    "development": []
+  },
+  "国王": {
+    "description": "未知",
+    "appearances": [
+      5
+    ],
+    "importance": 1,
+    "roles": [
+      "第一颗行星的统治者，自封为宇宙君主"
+    ],
+    "development": []
+  },
+  "爱虚荣的人": {
+    "description": "未知",
+    "appearances": [
+      5
+    ],
+    "importance": 1,
+    "roles": [
+      "第二颗行星的居民，渴望被崇拜"
+    ],
+    "development": []
+  },
+  "酒鬼": {
+    "description": "未知",
+    "appearances": [
+      5
+    ],
+    "importance": 1,
+    "roles": [
+      "第三颗行星的居民，沉溺于喝酒的恶性循环"
+    ],
+    "development": []
+  },
+  "实业家": {
+    "description": "未知",
+    "appearances": [
+      5
+    ],
+    "importance": 1,
+    "roles": [
+      "第四颗行星的居民，声称拥有星星却不知其意义"
+    ],
+    "development": []
+  },
+  "点灯人": {
+    "description": "未知",
+    "appearances": [
+      5
+    ],
+    "importance": 1,
+    "roles": [
+      "第五颗行星的居民，机械地执行点灯熄灯的命令"
+    ],
+    "development": []
+  }
+}

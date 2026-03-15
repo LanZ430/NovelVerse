@@ -1,0 +1,14 @@
+# 创建更全面的.gitignore
+echo # 虚拟环境 > .gitignore
+echo agent/Lib/ >> .gitignore
+echo agent/Scripts/ >> .gitignore
+echo agent/pyvenv.cfg >> .gitignore
+echo # Python缓存文件 >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.py[cod] >> .gitignore
+echo # 数据文件(可选) >> .gitignore
+echo data/images/ >> .gitignore
+echo data/temp/ >> .gitignore
+echo data/vectors/ >> .gitignore
+echo # 环境文件 >> .gitignore
+echo .env >> .gitignore

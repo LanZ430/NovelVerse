@@ -1,0 +1,32 @@
+[
+  {
+    "description": "小王子遇到国王，国王试图通过命令维持权威",
+    "chapter": 5,
+    "importance": 3
+  },
+  {
+    "description": "小王子离开国王，认为大人们很奇怪",
+    "chapter": 5,
+    "importance": 3
+  },
+  {
+    "description": "小王子遇到爱虚荣的人，对其行为感到困惑",
+    "chapter": 5,
+    "importance": 3
+  },
+  {
+    "description": "小王子遇到酒鬼，不理解其恶性循环",
+    "chapter": 5,
+    "importance": 3
+  },
+  {
+    "description": "小王子遇到实业家，质疑其拥有星星的意义",
+    "chapter": 5,
+    "importance": 3
+  },
+  {
+    "description": "小王子遇到点灯人，认为其工作有点意义",
+    "chapter": 5,
+    "importance": 3
+  }
+]
